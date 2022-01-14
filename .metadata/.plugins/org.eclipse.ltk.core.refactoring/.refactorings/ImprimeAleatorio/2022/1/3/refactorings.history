@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;classes.Aleatorio.vAleatorio&apos; in &apos;classes.Aleatorio&apos;&#x0D;&#x0A;- Original project: &apos;ImprimeAleatorio&apos;&#x0D;&#x0A;- Original element: &apos;classes.Aleatorio.vAleatorio&apos;&#x0D;&#x0A;- Getter method name: &apos;getvAleatorio&apos;&#x0D;&#x0A;- Setter method name: &apos;setvAleatorio&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;vAleatorio&apos;" flags="589830" getter="getvAleatorio" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java&lt;classes{Aleatorio.java[Aleatorio^vAleatorio" insertion="-1" setter="setvAleatorio" stamp="1642119841320" version="1.0" visibility="1"/>
+</session>

@@ -1,0 +1,18 @@
+import java.time.LocalTime;
+
+public class DataHora {
+	
+	private String horaMinuto;
+
+	public String getHoraMinuto() {
+		
+		LocalTime myObj = LocalTime.now();
+		horaMinuto = myObj.toString();
+		
+		return horaMinuto;
+	}
+
+	public void setHoraMinuto(String horaMinuto) {
+		this.horaMinuto = horaMinuto;
+	}
+}

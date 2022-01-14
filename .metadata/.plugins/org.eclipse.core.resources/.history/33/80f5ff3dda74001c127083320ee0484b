@@ -1,0 +1,22 @@
+package classes;
+
+public class ManipulaBD {
+
+	public Departamento retornaDepartamento() {
+		
+		try {
+		
+			
+			
+		}
+		catch (Exception e) {
+			
+			System.out.println(e.getMessage());
+			
+		}
+		
+		return null;
+		
+	}
+	
+}
